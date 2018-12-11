@@ -1,0 +1,94 @@
+body {
+  font-family: Lora;
+  font-size: 16px;
+  line-height: 1.5;
+
+  background-color: #ffffff;
+  background-image: url(mattsmelb_pattern.png);
+  color: #333333;
+  margin: 0px 24px;
+}
+
+header {
+  padding: 24px 0px;
+  background-color: white;
+  border-bottom: 1px solid grey;
+  overflow: hidden;
+  margin-bottom: 64px;
+  
+  /* when we float elements inside of our header, they are taken outside the regular box flow of the page, and as a result our header collapses
+  to get our header to have its proper height again, we can use overflow: hidden as a trick to get it working*/
+}
+
+header h1 {
+  float: left;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: 600;
+  text-decoration: none;
+  color: #43403d;
+}
+
+header nav {
+  float: right;
+  padding-top: 16px;
+}
+
+header nav a:last-child {
+  color: #d52500;
+}
+
+header nav a {
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #2727e6;
+  text-decoration: none;
+  margin-left: 16px;
+  text-transform: uppercase;
+}
+
+
+h2 {
+  font-family: Montserrat;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 800;
+  color: #43403d;
+}
+
+
+.pageComponent {
+  background-color: rgba(255, 255, 255, .9);
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.pageIntro {
+    max-width: 586px !important;
+    margin: 0 auto;
+}
+
+.pageIntro h1 {
+    font-size: 48px;
+    text-align: center;
+    margin: 24px 0;
+    font-weight: 900;
+}
+
+.pageIntro p {
+    font-size: 18px;
+    text-align: left;
+    margin: 24px 0;
+}
+
+.pageIntro img {
+    margin: 24px auto;
+  	display: block;
+}
+
+.food {
+  
+  
+}

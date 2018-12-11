@@ -1,0 +1,20 @@
+<header>
+  <a href="home.html"><h1 class="title">Matt's Melbourne</h1></a>
+  <nav>
+    <a href="fitzroy.html">Fitzroy</a>
+    <a href="carlton.html">Carlton</a>
+    <a href="richmond.html">Richmond</a>
+    <a href="stkilda.html">St. Kilda</a>
+    <a href="collingwood.html">Collingwood</a>
+    <a href="southmelbourne.html">South Melbourne</a>
+    <a class="adventures" href="adventures.html">Adventures</a>
+  </nav>
+</header>
+
+<section class="pageIntro">
+  <h1>
+    South Melbourne
+  </h1>
+  <p>Classy but not stuffy. Prime location. Burgers. Fitness. </p>
+  <img src="squiggle_red.png">
+</section>

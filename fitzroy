@@ -1,0 +1,58 @@
+
+<header>
+  <a href="home.html"><h1 class="title">Matt's Melbourne</h1></a>
+  <nav>
+    <a href="fitzroy.html">Fitzroy</a>
+    <a href="carlton.html">Carlton</a>
+    <a href="richmond.html">Richmond</a>
+    <a href="stkilda.html">St. Kilda</a>
+    <a href="collingwood.html">Collingwood</a>
+    <a href="southmelbourne.html">South Melbourne</a>
+    <a class="adventures" href="adventures.html">Adventures</a>
+  </nav>
+</header>
+
+<section class="pageComponent">
+
+<div class="pageIntro">
+  <h1>
+    Fitzroy
+  </h1>
+  <p>This is hipster heaven. Here you'll find small coffee shops, intriguing food, the sassiest drinks, vintage stores, plant shops, healthy food markets, and the trendiest people on the streets.</p>
+  <img src="squiggle_red.png">
+</div>
+
+  <div class="key">
+    <h3>
+      Key
+    </h3>
+    <ul>
+      <li>Carrie's been <img src=""></li>
+      <li>Veggie friendly <img src=""></li>
+      <li>Price<img src=""></li>
+    </ul>
+   
+  </div>
+  
+<div class="food">
+  <div class="listing">
+    <h2>
+  Food
+  </h2>
+<ul>
+  <li>
+    <p class="listingTitle">
+       The Black Cat
+    </p>
+    <p class="listingDescription">
+    Filled with plants and sunlight, cozy couches and booths and simple but effective drinks. This is the perfect place to read comics or sketch the afternoon away.
+    </p>
+    <a class="listingLink" href="http://www.blackcatfitzroy.com/">The Black Cat</a>
+  </div>
+
+
+ 
+  </li>
+  </ul>
+</div>
+</section>
